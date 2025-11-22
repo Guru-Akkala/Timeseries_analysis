@@ -1,4 +1,4 @@
-# Time-Series-Analysis-R-and-Python-
+# Time Series Analysis R and Python
 
 A complete Time Series Analysis repository that covers everything from **beginner** concepts to **advanced, expert-level techniques**.
 
